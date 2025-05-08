@@ -1,0 +1,1 @@
+# ÚTOK NA KRÁĽA - ROŠÁDY NA OPAČNÚ STRANU
