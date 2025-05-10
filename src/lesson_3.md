@@ -71,7 +71,7 @@ Je rozhodnuté, čierny je bez obrany. Hrozí Vxf6.
 
 **22. - Jh5 23.Dg6! exd4**
 
-<img src="../img/lesson_3_1_7.gif" style="width:100%; max-width:300px;">
+<img src="../img/lesson_3_1_8.gif" style="width:100%; max-width:300px;">
 
 Po Jf4 mohlo nasledovať 24.Vxf4! exf4 25.Jf3 Db6 26.Vg5! Sc6 27.Jf6 Se4 28.Dxh6+!!
 
